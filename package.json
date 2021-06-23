@@ -1,0 +1,22 @@
+{
+    "name": "module-10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jvesterfelt/jest-another-RPG.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jvesterfelt/jest-another-RPG/issues"
+    },
+    "homepage": "https://github.com/jvesterfelt/jest-another-RPG#readme",
+    "devDependencies": {
+        "jest": "^27.0.4"
+    }
+}
