@@ -13,7 +13,7 @@ Download source files and run tests using:
 -npm run test [Player, Potion, Enemy]
 
 ## License: 
-![License Badge] (https://img.shields.io/badge/license-MIT-brightgreen)
+[License Badge] (https://img.shields.io/badge/license-MIT-brightgreen)
 [MIT] (https://choosealicense.com/licenses/mit/)
 
 MIT License
