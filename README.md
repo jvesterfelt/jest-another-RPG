@@ -1,5 +1,5 @@
 # jest-another-RPG
-#### [Repo link:](https://github.com/jvesterfelt/jest-another-RPG)
+#### [jest-another-RPG repository](https://github.com/jvesterfelt/jest-another-RPG)
 
 ## Description:
 This is a simple node.js application designed to implement the concepts of object-oriented programming. This simple RPG (role-playing game) demonstrates the concepts of object creation (constructors), inheritance, DRY principles, and test-driven development. 
@@ -14,7 +14,8 @@ Download source files and run tests using:
 
 ## License: 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
-[MIT](https://choosealicense.com/licenses/mit/)
+
+[MIT Licensing](https://opensource.org/licenses/MIT)
 
 MIT License
 
@@ -37,3 +38,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Questions:
+#### Email: 
+* jvesterfelt@github.com
