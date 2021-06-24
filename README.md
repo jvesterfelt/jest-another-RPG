@@ -19,7 +19,7 @@ Download source files and run tests using:
 
 MIT License
 
-Copyright (c) [2021] [Jamie Vesterfelt]
+Copyright (c) 2021 Jamie Vesterfelt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
