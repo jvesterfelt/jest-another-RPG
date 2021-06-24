@@ -10,7 +10,7 @@ This is a simple node.js application designed to implement the concepts of objec
 
 ## Testing:
 Download source files and run tests using:
--npm run test [Player, Potion, Enemy]
+* npm run test [Player, Potion, Enemy]
 
 ## License: 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
